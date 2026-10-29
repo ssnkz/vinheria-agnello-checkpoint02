@@ -43,6 +43,7 @@ function vender_vinho() {
     quantidade_vendida = parseInt(prompt("Informe a Quantidade que será Vendida: "));
     if (quantidade_vendida > vinho_encontrado.estoque) {
         alert(`Erro! Estoque insuficiente. Temos apenas ${vinho_encontrado.estoque} unidades.`);
+        return;
     }
 
     let preco_numerico = parseFloat(vinho_encontrado.preco.replace("R$", ""));
