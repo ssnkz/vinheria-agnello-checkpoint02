@@ -15,3 +15,5 @@ Gustavo Suzuki 574700, Pedro Henrique Costa 574484, Tiago Ferreira 562129
 
 link github pages:
 https://tibaass.github.io/vinharia-agnello/
+
+<img width="1021" height="739" alt="image" src="https://github.com/user-attachments/assets/694eab39-fc11-4df1-bd01-9ea205e0960d" />
