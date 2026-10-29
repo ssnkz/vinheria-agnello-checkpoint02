@@ -7,6 +7,8 @@ Novas Implementações:
 - Uso de Whiles
 - Uso de For
 - Uso de Return
+- Uso de Dicionarios
+- Uso de Listas
 - Uso de Break
 - Sistema de Cadastro, Venda, Ver Classificação, Ver Estoque, Ver Saldo Implementado.
 
